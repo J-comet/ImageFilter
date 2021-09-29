@@ -9,7 +9,7 @@
 - GPU Image
 
 ### 미리보기
-![Webp net-gifmaker](https://user-images.githubusercontent.com/67407666/89728216-9a643800-da66-11ea-8ca4-8fe52974885b.gif)
+![ezgif com-gif-maker](https://user-images.githubusercontent.com/67407666/135219283-9badeda6-5f2b-418c-bce8-4d5559b63da5.gif)
 
 
 ### 주요기능
