@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ImageFilter</string>
+    <string name="str_saved_images">SAVED IMAGES</string>
+    <string name="str_edit_new_image">Edit New Image</string>
+    <string name="str_create_something">Let`s create something new!</string>
+
+</resources>
